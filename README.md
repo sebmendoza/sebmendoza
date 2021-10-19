@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebmendoza
 - 👀 I’m interested in creating a personal website and learning all about programming!
 - 🌱 I’m currently studying at the University of Waterloo in Systems Design Engineering.
-- 💞️ I’m looking to collaborate on anything fun! I'm all about trying new experiences.
+- 💞️ I’m currently trying to learn through fun side projects.
 - 📫 Feel free to reach me at sebmendozaa@gmail.com
 
 <!---
