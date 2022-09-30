@@ -1,6 +1,6 @@
 Hey  👋 <br>
 🌱 I'm studying Systems Design Engineering and UWaterloo. <br>
-💞️ Perosnal Website is in progress.....<br>
+💞️ Personal Website is in progress.....<br>
 📫 Feel free to reach me at sebmendozaa@gmail.com
 
 <!---
