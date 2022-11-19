@@ -1,4 +1,4 @@
-Hey  👋 <br>
+Hey there👋 <br>
 🌱 I'm studying Systems Design Engineering and UWaterloo. <br>
 💞️ Personal Website is in progress.....<br>
 📫 Feel free to reach me at sebmendozaa@gmail.com
