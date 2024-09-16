@@ -1,6 +1,6 @@
 Hey there👋 <br>
 🌱 I'm studying Systems Design Engineering and UWaterloo. <br>
-I'm currently digging into database architecture to learn the ins and outs of the best databases!
+📚 I'm currently digging into database architecture to learn the ins and outs of the best databases! <br>
 📫 Feel free to reach me at sebastian.mendoza@uwaterloo.ca
 
 <!---
